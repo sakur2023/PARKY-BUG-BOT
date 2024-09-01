@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
+global.ownernomer = "22998068954"
+global.ownername = "🩵 Sakura"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
@@ -23,21 +23,21 @@ global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the 
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.author = '🍁Sakura🍁'
 
 //console view/theme
 global.themeemoji = '🩵'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
+global.link = 'https://chat.whatsapp.com/CFh3Dz1hEgoJfG4G6zqTKc'
 
 //custom prefix
 global.prefa = '.'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
